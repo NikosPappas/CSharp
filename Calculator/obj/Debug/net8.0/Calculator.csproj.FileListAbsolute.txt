@@ -1,0 +1,14 @@
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/bin/Debug/net8.0/Calculator
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/Calculator/obj/Debug/net8.0/ref/Calculator.dll
