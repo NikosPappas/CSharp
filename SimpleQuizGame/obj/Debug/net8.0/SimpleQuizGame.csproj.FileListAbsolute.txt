@@ -1,0 +1,14 @@
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/SimpleQuizGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/SimpleQuizGame.AssemblyInfoInputs.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/SimpleQuizGame.AssemblyInfo.cs
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/SimpleQuizGame.csproj.CoreCompileInputs.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/bin/Debug/net8.0/SimpleQuizGame
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/bin/Debug/net8.0/SimpleQuizGame.deps.json
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/bin/Debug/net8.0/SimpleQuizGame.runtimeconfig.json
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/bin/Debug/net8.0/SimpleQuizGame.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/bin/Debug/net8.0/SimpleQuizGame.pdb
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/SimpleQuizGame.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/refint/SimpleQuizGame.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/SimpleQuizGame.pdb
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/SimpleQuizGame.genruntimeconfig.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/SimpleQuizGame/obj/Debug/net8.0/ref/SimpleQuizGame.dll
