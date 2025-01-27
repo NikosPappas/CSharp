@@ -1,0 +1,14 @@
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfoInputs.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfo.cs
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.deps.json
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.runtimeconfig.json
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.pdb
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/refint/GuessTheNumber.dll
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.pdb
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.genruntimeconfig.cache
+/home/nikos-pappas/CsharpProjects/TerminalPortofolio/GuessTheNumber/obj/Debug/net8.0/ref/GuessTheNumber.dll
